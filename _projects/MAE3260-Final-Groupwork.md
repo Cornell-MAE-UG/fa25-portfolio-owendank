@@ -8,4 +8,4 @@ image: /assets/images/Satellite.jpeg
 
 
 In this Groupwork, we created a block diagram and transfer function of a satellite and modeled various parts of the sattelite. The full project can be downloaded in the link below. 
-[Download the report (PDF)](/assets/PDFs/MAE3260-Final-Groupwork.pdf)
+[MAE3260-Final-Groupwork.pdf](https://github.com/user-attachments/files/24145855/MAE3260-Final-Groupwork.pdf)
