@@ -2,7 +2,7 @@
 layout: project
 title: Heat Transfer (MAE3240) Homework 3
 description: This Homework covered topics like thermal resistance. 
-technologies: [Powerpoint]
+technologies: [N/A]
 image: /assets/images/MAE-3240-Cover-Page.png
 ---
 
