@@ -5,5 +5,6 @@ description: Mechatronics project where we designed a robot to collect more cube
 technologies: [Arduino, Electrical Engineering, C++]
 image: /assets/images/Robot.png
 ---
-Click the link to view our report on the robot
-[3780-Final-Report](https://docs.google.com/document/d/1xZTWszF62QucJnO-FHh7ugUpTJaTJ77uxA_2xQhxbJA/edit?usp=sharing)
+Click the link to view our report.
+<a href="https://docs.google.com/document/d/1xZTWszF62QucJnO-FHh7ugUpTJaTJ77uxA_2xQhxbJA/edit?usp=sharing" target="_blank">
+View the Final Report
